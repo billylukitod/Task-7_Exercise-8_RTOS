@@ -85,4 +85,4 @@ Mensimulasikan sebuah bagian kritis yang:
 ![50887ca8-34f7-493a-b62b-17cf0d5a1d6e](https://github.com/user-attachments/assets/4be5e987-f7cf-4150-80d5-1ed9a872ca01)
 
 ## Video Hardware
-
+https://github.com/user-attachments/assets/fe72f016-5f90-47e7-9ddd-a1fa09dd0a69
