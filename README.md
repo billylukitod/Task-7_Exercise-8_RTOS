@@ -59,18 +59,6 @@ Mensimulasikan sebuah bagian kritis yang:
 
 ---
 
-## Pengaturan Hardware
-
-- **GPIO**:
-  - Green LED: Terhubung ke `GPIOx`.
-  - Red LED: Terhubung ke `GPIOy`.
-  - Orange LED: Terhubung ke `GPIOz`.
-  - Semua dikonfigurasi sebagai mode output.
-
-- **Timer**:
-  - Timer2 digunakan untuk mengukur waktu akses ke sumber daya bersama.
-
----
 
 ## Dependencies
 
