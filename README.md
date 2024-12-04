@@ -82,6 +82,7 @@ Mensimulasikan sebuah bagian kritis yang:
 - **OrangeLEDTask** tidak mengakses sumber daya bersama dan berjalan secara independen dengan prioritas lebih tinggi untuk memastikan blinking terus berjalan.
 
 ## Foto Hardware
+![50887ca8-34f7-493a-b62b-17cf0d5a1d6e](https://github.com/user-attachments/assets/4be5e987-f7cf-4150-80d5-1ed9a872ca01)
 
 ## Video Hardware
 
